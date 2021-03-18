@@ -1,0 +1,16 @@
+C:\Users\Maria Eduarda\Agenda\Agenda_Menu\bin\Debug\net5.0\Agenda_Menu.exe
+C:\Users\Maria Eduarda\Agenda\Agenda_Menu\bin\Debug\net5.0\Agenda_Menu.deps.json
+C:\Users\Maria Eduarda\Agenda\Agenda_Menu\bin\Debug\net5.0\Agenda_Menu.runtimeconfig.json
+C:\Users\Maria Eduarda\Agenda\Agenda_Menu\bin\Debug\net5.0\Agenda_Menu.runtimeconfig.dev.json
+C:\Users\Maria Eduarda\Agenda\Agenda_Menu\bin\Debug\net5.0\Agenda_Menu.dll
+C:\Users\Maria Eduarda\Agenda\Agenda_Menu\bin\Debug\net5.0\ref\Agenda_Menu.dll
+C:\Users\Maria Eduarda\Agenda\Agenda_Menu\bin\Debug\net5.0\Agenda_Menu.pdb
+C:\Users\Maria Eduarda\Agenda\Agenda_Menu\obj\Debug\net5.0\Agenda_Menu.csprojAssemblyReference.cache
+C:\Users\Maria Eduarda\Agenda\Agenda_Menu\obj\Debug\net5.0\Agenda_Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Eduarda\Agenda\Agenda_Menu\obj\Debug\net5.0\Agenda_Menu.AssemblyInfoInputs.cache
+C:\Users\Maria Eduarda\Agenda\Agenda_Menu\obj\Debug\net5.0\Agenda_Menu.AssemblyInfo.cs
+C:\Users\Maria Eduarda\Agenda\Agenda_Menu\obj\Debug\net5.0\Agenda_Menu.csproj.CoreCompileInputs.cache
+C:\Users\Maria Eduarda\Agenda\Agenda_Menu\obj\Debug\net5.0\Agenda_Menu.dll
+C:\Users\Maria Eduarda\Agenda\Agenda_Menu\obj\Debug\net5.0\ref\Agenda_Menu.dll
+C:\Users\Maria Eduarda\Agenda\Agenda_Menu\obj\Debug\net5.0\Agenda_Menu.pdb
+C:\Users\Maria Eduarda\Agenda\Agenda_Menu\obj\Debug\net5.0\Agenda_Menu.genruntimeconfig.cache

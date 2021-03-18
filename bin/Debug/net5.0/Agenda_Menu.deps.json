@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Agenda_Menu/1.0.0": {
+        "runtime": {
+          "Agenda_Menu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Agenda_Menu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
